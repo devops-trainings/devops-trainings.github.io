@@ -17,5 +17,6 @@ List of tools are
 ### 1. Tool : GitBash Setup
 
 Let us go through the download and setup of GitBash.
+
 Install the GitBash [https://git-scm.com/download/win](https://git-scm.com/download/win).
 
