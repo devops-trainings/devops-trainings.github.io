@@ -10,4 +10,7 @@ Following tools are to be installed if you are using windows operating system. F
 List of tools are 
     1. GitBash
     2. XShell
-    3. X
+    3. XFTP
+    4. Visual Studio Code
+
+Let 
