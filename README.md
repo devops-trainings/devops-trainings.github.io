@@ -14,3 +14,4 @@ List of tools are
     3. XFTP
     4. Visual Studio Code
 
+Let us go thorugh the installation of 
