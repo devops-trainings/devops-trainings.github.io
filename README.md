@@ -28,4 +28,4 @@ Then , Open GitBash and run the following command
 
 `$ mv devops.pem devops`
 
-**Bold**Note:**Bold** Above symbol `$` denotes the prompt , So you no need to keep `$` symbol at the command line.
+**Note:** Above symbol `$` denotes the prompt , So you no need to keep `$` symbol at the command line.
