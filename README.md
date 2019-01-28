@@ -30,4 +30,4 @@ Then , Open GitBash and run the following command
 
 **Note:** Above symbol `$` denotes the prompt , So you no need to keep `$` symbol at the command line.
 
-![Image](src)
+![Image](https://gitlab.com/cit-devops/intros/uploads/cd693b51cc08df01d79745b1b4ab4607/image.png)
