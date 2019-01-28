@@ -14,5 +14,7 @@ List of tools are
 3. XFTP
 4. Visual Studio Code
 
+### 1. Tool : GitBash Setup
 
 Let us go through the download and setup of GitBash.
+
