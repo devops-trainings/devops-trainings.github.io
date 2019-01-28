@@ -25,6 +25,7 @@ Install the GitBash with the default options.
 Then , Open GitBash and run the following command 
 
 `$ ssh-keygen -f devops` 
+
 `$ mv devops.pem devops`
 
 Note: Above symbol `$` denotes the promot , So you no need to keep `$` symbol at the command line.
