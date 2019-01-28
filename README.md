@@ -9,4 +9,5 @@ Following tools are to be installed if you are using windows operating system. F
 
 List of tools are 
     1. GitBash
-    2. 
+    2. XShell
+    3. X
