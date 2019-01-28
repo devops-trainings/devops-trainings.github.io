@@ -22,3 +22,5 @@ Install the GitBash [https://git-scm.com/download/win](https://git-scm.com/downl
 
 Install the GitBash with the default options.
 
+Then , Open GitBash and run the following command 
+`
