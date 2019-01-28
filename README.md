@@ -30,3 +30,4 @@ Then , Open GitBash and run the following command
 
 **Note:** Above symbol `$` denotes the prompt , So you no need to keep `$` symbol at the command line.
 
+![Image](src)
