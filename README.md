@@ -1,1 +1,1 @@
-## Welcome to DevOps Trainings.
+## Welcome to DevOps Training.
