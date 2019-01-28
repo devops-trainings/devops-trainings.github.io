@@ -20,11 +20,10 @@ Let us go through the download and setup of GitBash.
 
 Install the GitBash [https://git-scm.com/download/win](https://git-scm.com/download/win).
 
-Install the GitBash with the default options.
-
+Install the GitBash with the default options
 Then , Open GitBash and run the following command 
 
 `$ ssh-keygen -f devops` 
 `$ mv devops.pem devops`
 
-Note: Abo
+Note: Above symbol `$` denotes the promot , bu
